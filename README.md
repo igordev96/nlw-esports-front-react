@@ -37,7 +37,7 @@ Clone the project
 Go to the project directory (you can change the name if you want)
 
 ```bash
-  cd react-rick-morty-chars
+  cd nlw-esports-front-react
 ```
 
 Install dependencies
