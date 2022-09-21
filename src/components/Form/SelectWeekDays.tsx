@@ -1,4 +1,4 @@
-import { Dispatch, SetStateAction } from 'react';
+import { Dispatch } from 'react';
 import * as Toggle from '@radix-ui/react-toggle';
 import { Ad } from '../../models/Ads';
 
