@@ -2,6 +2,7 @@
 
 This app was developed using Vite to create the boilerplate to start a React application and many other techs. It was made to create ads for people play duo games. For example:
 A person create an ad and then the other one interested in the same game connects to this person and add him to Discord.
+It's using the backend created at the nlw-esports-backend repository, check there if you want more information.
 
 ## Tech Stack
 
@@ -13,6 +14,8 @@ A person create an ad and then the other one interested in the same game connect
 - Tailwind CSS: To style all the project
 
 ## Demo
+
+[Test the application here](https://nlw-esports-react.netlify.app/)
 
 -Responsive:
 <img src="https://github.com/igordev96/nlw-esports-front-react/blob/master/repository/responsive.gif.gif">
